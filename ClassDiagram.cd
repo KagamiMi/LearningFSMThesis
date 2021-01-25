@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="EnemyRectangle">
+    <Position X="0.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAABAAAAAAAAAAAAAIAAAAAQAAAAACACAAAAAI=</HashCode>
+      <FileName>EnemyRectangle.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FSM">
+    <Position X="7.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>UAAAAEEQAIAAABAIIAgCDAAAAAAAABIEgAIAAAAAIkQ=</HashCode>
+      <FileName>FSM.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Input">
+    <Position X="9.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAADAAQACEAAACAAAgECAAAAIAAA=</HashCode>
+      <FileName>Input.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OpenGLManager">
+    <Position X="5.25" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>BlFgkgmwAQAAAwYARQIgQCgHggghKQBdFIpwCAiwABo=</HashCode>
+      <FileName>OpenGLManager.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Record">
+    <Position X="11.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAACAAAAQAAAAAAAAQAAEAAAAAAABIAAAAAEABCg=</HashCode>
+      <FileName>Record.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Rectangle">
+    <Position X="2.5" Y="1.25" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAiAAAAAAAAAAAABgAIAAmAB4gECAEAAAAAAAAAAI=</HashCode>
+      <FileName>Rectangle.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="State">
+    <Position X="9.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAABAAAIAIAAAAAAAAAAAAAAAAAAAQAARAAAAAg=</HashCode>
+      <FileName>State.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="ColliderWall">
+    <Position X="14.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAQAAAAAAAIAAAACACBAAEAAAA=</HashCode>
+      <FileName>Rectangle.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Action">
+    <Position X="14.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAEAAAAAAQAAAAAAAAAAAAYAAAAAAAAAA=</HashCode>
+      <FileName>State.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
